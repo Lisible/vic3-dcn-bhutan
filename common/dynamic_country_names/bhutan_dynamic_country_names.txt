@@ -1,0 +1,41 @@
+﻿BHU = { # Bhutan
+	dynamic_country_name = {
+		name = dyn_c_bhutan_communist
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			coa_def_communist_flag_trigger = yes
+		}
+	}
+
+    dynamic_country_name = {
+		name = dyn_c_bhutan_kingdom
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			coa_def_monarchy_flag_trigger = yes
+		}
+	}
+
+    dynamic_country_name = {
+		name = dyn_c_bhutan_theocracy
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			coa_def_theocracy_flag_trigger = yes
+		}
+	}
+
+    dynamic_country_name = {
+		name = dyn_c_bhutan_republic
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			coa_def_republic_flag_trigger = yes
+		}
+	}
+}

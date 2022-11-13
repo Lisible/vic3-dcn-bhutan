@@ -1,0 +1,12 @@
+{
+  "name" : "Dynamic Country Name - Bhutan",
+  "id" : "",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.0.5",
+  "short_description" : "Adds dynamic country names for Bhutan",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
